@@ -166,19 +166,19 @@ color: #fff;
 
 
  @font-face { font-family: gtek;
-   src: url('fonts/gtek.ttf'); }
+   src: url('gtek.ttf'); }
 
    @font-face { font-family: Semravut;
-     src: url('fonts/Semravut.ttf'); }
+     src: url('Semravut.ttf'); }
 
      @font-face { font-family: pdark;
-       src: url('fonts/pdark.ttf'); }
+       src: url('pdark.ttf'); }
 
        @font-face { font-family: Protos;
-         src: url('fonts/Protos.otf'); }
+         src: url('Protos.otf'); }
 
          @font-face { font-family: Uranium;
-           src: url('fonts/uranium.ttf'); }
+           src: url('uranium.ttf'); }
 /*------------------------Webkit--Animation----------------------*/
 @-webkit-keyframes flip {
   from {
