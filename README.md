@@ -1,2 +1,2 @@
 # COSMOGIC
-COSMOGIS.com
+COSMOGIC.com
