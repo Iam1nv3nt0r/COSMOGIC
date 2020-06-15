@@ -13,26 +13,26 @@ function scrol(){
 
 function linux1(){
   document.getElementById("ti").innerHTML = "video Linux 1";
-  document.getElementById("vid_frame").src="https://youtu.be/lCbLb0L91oY";}
+  document.getElementById("vid_frame").src="https://youtu.be/V3yQbVVYKlY";}
 function linux2(){
   document.getElementById("ti").innerHTML = "video Linux 2";
-  document.getElementById("vid_frame").src="https://youtube.com/embed/cOSEOYi9JS4?autoplay=1&rel=0&controls=1";
+  document.getElementById("vid_frame").src="https://youtu.be/ANP2Q4jYX3c";
 }
 function linux3(){
   document.getElementById("ti").innerHTML = "video Linux 3";
-  document.getElementById("vid_frame").src="https://youtube.com/embed/cOSEOYi9JS4?autoplay=1&rel=0&controls=1";
+  document.getElementById("vid_frame").src="https://youtu.be/gvc0y656JrQ";
 }
 function linux4(){
   document.getElementById("ti").innerHTML = "video Linux 4";
-  document.getElementById("vid_frame").src="https://youtube.com/embed/cOSEOYi9JS4?autoplay=1&rel=0&controls=1";
+  document.getElementById("vid_frame").src="https://youtu.be/RDCu1DiX_h8";
 }
 function linux5(){
   document.getElementById("ti").innerHTML = "video Linux 5";
-  document.getElementById("vid_frame").src="https://youtube.com/embed/cOSEOYi9JS4?autoplay=1&rel=0&controls=1";
+  document.getElementById("vid_frame").src="https://youtu.be/OhOqSp11W6Y";
 }
 function linux6(){
   document.getElementById("ti").innerHTML = "video Linux 1";
-  document.getElementById("vid_frame").src="https://youtube.com/embed/cOSEOYi9JS4?autoplay=1&rel=0&controls=1";
+  document.getElementById("vid_frame").src="https://youtu.be/MNBGGCXqguk";
 }
 function linux7(){
   document.getElementById("ti").innerHTML = "video Linux 7";
