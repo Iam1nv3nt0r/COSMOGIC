@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.036" y1="0.552" x2="0.686" y2="0.539" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"></stop>
+      <stop offset="1" stop-color="#11f272"></stop>
+    </linearGradient>
+  </defs>
+  <g id="pieradar" transform="translate(-58 -33)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(58 33)" fill="none" stroke="#484848" stroke-width="5">
+      <circle cx="200" cy="200" r="200" stroke="none" class="svg-elem-1"></circle>
+      <circle cx="200" cy="200" r="197.5" fill="none" class="svg-elem-2"></circle>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(100 73)" fill="none" stroke="#fff" stroke-width="0.5">
+      <circle cx="160" cy="160" r="160" stroke="none" class="svg-elem-3"></circle>
+      <circle cx="160" cy="160" r="159.75" fill="none" class="svg-elem-4"></circle>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(140 113)" fill="none" stroke="#fff" stroke-width="0.5">
+      <circle cx="120" cy="120" r="120" stroke="none" class="svg-elem-5"></circle>
+      <circle cx="120" cy="120" r="119.75" fill="none" class="svg-elem-6"></circle>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(180 153)" fill="none" stroke="#fff" stroke-width="0.5">
+      <circle cx="80" cy="80" r="80" stroke="none" class="svg-elem-7"></circle>
+      <circle cx="80" cy="80" r="79.75" fill="none" class="svg-elem-8"></circle>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(220 193)" fill="none" stroke="#fff" stroke-width="0.5">
+      <circle cx="40" cy="40" r="40" stroke="none" class="svg-elem-9"></circle>
+      <circle cx="40" cy="40" r="39.75" fill="none" class="svg-elem-10"></circle>
+    </g>
+    <g id="Pieradar-2" data-name="Pieradar">
+      <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(255 228)" fill="#fff" stroke="#fff" stroke-width="3">
+        <circle cx="5" cy="5" r="5" stroke="none" class="svg-elem-11"></circle>
+        <circle cx="5" cy="5" r="3.5" fill="none" class="svg-elem-12"></circle>
+      </g>
+      <path id="Path_1" data-name="Path 1" d="M76,0l63.971,186.558S114,198,76,198s-55.729-7.839-55.729-7.839Z" transform="translate(208.1 288.136) rotate(-47)" opacity="0.46" fill="url(#linear-gradient)" style="mix-blend-mode: hard-light; isolation: isolate;" class="svg-elem-13"></path>
+    </g>
+  </g>
+</svg>

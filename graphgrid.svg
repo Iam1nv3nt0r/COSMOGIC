@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="834.171" height="367.989" viewBox="0 0 834.171 367.989">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="694" height="340" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="799.067" height="260" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-100%" y1="0" x2="200%" y2="0" >
+            <stop offset="0" stop-color="#12F1DF">
+               <animate attributeName="offset" values="0;0.2;0.5" dur="2s" repeatCount="indefinite"  />
+            </stop>
+            <stop offset="0.5" stop-color="#27968D">
+                <animate attributeName="offset" values="0.5;0.7;0.8;1" dur="2s" repeatCount="indefinite"  />
+            </stop>
+        </linearGradient>
+  </defs>
+  <g id="Group_33" data-name="Group 33" transform="translate(-509.524 -34.479)">
+    <g id="Group_19" data-name="Group 19">
+      <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(524 48)" fill="none" stroke="#1abaff" stroke-width="3">
+        <rect width="804" height="340" stroke="none"/>
+        <rect x="1.5" y="1.5" width="801" height="337" fill="none"/>
+      </g>
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(591 48.5)" opacity="0.2" clip-path="url(#clip-path)">
+        <g transform="translate(-599 -48.5)">
+          <line id="Line_85" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-537 -48.5)">
+          <line id="Line_85-2" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-475 -48.5)">
+          <line id="Line_85-3" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-413 -48.5)">
+          <line id="Line_85-4" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-351 -48.5)">
+          <line id="Line_85-5" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-289 -48.5)">
+          <line id="Line_85-6" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-227 -48.5)">
+          <line id="Line_85-7" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-165 -48.5)">
+          <line id="Line_85-8" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-103 -48.5)">
+          <line id="Line_85-9" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-41 -48.5)">
+          <line id="Line_85-10" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(21 -48.5)">
+          <line id="Line_85-11" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(83 -48.5)">
+          <line id="Line_85-12" data-name="Line 85" y2="340" transform="translate(599.5 48.5)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(524 90.043)" opacity="0.2" clip-path="url(#clip-path-2)">
+        <g transform="translate(-524 -90.043)">
+          <path id="Path_21" data-name="Path 21" d="M524,87.543h799.067" transform="translate(0 3)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-524 -47.043)">
+          <path id="Path_21-2" data-name="Path 21" d="M524,87.543h799.067" transform="translate(0 3)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-524 -4.043)">
+          <path id="Path_21-3" data-name="Path 21" d="M524,87.543h799.067" transform="translate(0 3)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-524 38.957)">
+          <path id="Path_21-4" data-name="Path 21" d="M524,87.543h799.067" transform="translate(0 3)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-524 81.957)">
+          <path id="Path_21-5" data-name="Path 21" d="M524,87.543h799.067" transform="translate(0 3)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-524 124.957)">
+          <path id="Path_21-6" data-name="Path 21" d="M524,87.543h799.067" transform="translate(0 3)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+        <g transform="translate(-524 167.957)">
+          <path id="Path_21-7" data-name="Path 21" d="M524,87.543h799.067" transform="translate(0 3)" fill="none" stroke="#1abaff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_32" data-name="Path 32" d="M524,141.468l-16.476-18.523V28.479H915.951L931.695,43.3H524Z" transform="translate(2 6)" fill="url(#linear-gradient)"/>
+    <path id="Path_33" data-name="Path 33" d="M524,141.468l-16.476-18.523V28.479H915.951L931.695,43.3H524Z" transform="translate(1851.219 430.946) rotate(180)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

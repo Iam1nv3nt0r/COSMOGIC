@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 1400 980" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="enable-background:new 0 0 1400 980;" width="1400px" height="980px"><defs><filter id="Ellipse_18" x="822" y="0" width="70" height="70" filterUnits="userSpaceOnUse">
+  <defs>
+        <linearGradient id="linear-gradient" x1="-100%" y1="0" x2="200%" y2="0" >
+            <stop offset="0" stop-color="red">
+               <animate attributeName="offset" values="0;0.2;0.5" dur="2s" repeatCount="indefinite"  />
+            </stop>
+            <stop offset="0.5" stop-color="yellow">
+                <animate attributeName="offset" values="0.5;0.7;0.8;1" dur="2s" repeatCount="indefinite"  />
+            </stop>
+        </linearGradient>
+    </defs>
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter><filter id="Ellipse_18-2" x="821" y="59" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter><filter id="Ellipse_18-3" x="1020" y="0" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter><filter id="Ellipse_18-4" x="1021" y="59" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter></defs><g transform="matrix(0.7518796992481203, 0, 0, 0.7518796992481203, -0.000012955575584783219, 417.44361334108146)"><g id="Group_47" data-name="Group 47" transform="translate(-23 -861)">
+    <g id="Group_46" data-name="Group 46" transform="translate(-86.059)">
+      <g id="Group_36" data-name="Group 36" transform="translate(676.819 994)">
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(0.24)" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 0 0 H 727 V 60 H 0 V 0 Z" stroke="none"/>
+          <path d="M 1.5 1.5 H 725.5 V 58.5 H 1.5 V 1.5 Z" fill="none"/>
+        </g>
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(36.24 23)" fill="#fff" stroke="#58D68D " stroke-width="1">
+          <path d="M 17 8 A 8.5 8 0 0 1 8.5 16 A 8.5 8 0 0 1 0 8 A 8.5 8 0 0 1 8.5 0 A 8.5 8 0 0 1 17 8 Z" stroke="none"/>
+          <path d="M 16.5 8 A 8 7.5 0 0 1 8.5 15.5 A 8 7.5 0 0 1 0.5 8 A 8 7.5 0 0 1 8.5 0.5 A 8 7.5 0 0 1 16.5 8 Z" fill="none"/>
+        </g>
+        <path d="M 16 8 A 8 8 0 0 1 8 16 A 8 8 0 0 1 0 8 A 8 8 0 0 1 8 0 A 8 8 0 0 1 16 8 Z" id="Ellipse_9" data-name="Ellipse 9" transform="translate(76.24 23)" fill="#58D68D "/>
+        <path d="M 16 8 A 8 8 0 0 1 8 16 A 8 8 0 0 1 0 8 A 8 8 0 0 1 8 0 A 8 8 0 0 1 16 8 Z" id="Ellipse_10" data-name="Ellipse 10" transform="translate(119.24 23)" fill="#fff"/>
+        <path id="Path_22" data-name="Path 22" d="M0,0H125.885l12.182,16H10.558Z" transform="translate(169.004 23)" fill="#fff"/>
+        <path id="Path_23" data-name="Path 23" d="M0,0H125.885l12.182,16H10.558Z" transform="translate(307.879 23)" fill="#58D68D "/>
+        <path id="Path_24" data-name="Path 24" d="M0,0H125.885l12.182,16H10.558Z" transform="translate(445.982 23)" fill="#fff"/>
+      </g>
+      <g id="Group_35" data-name="Group 35" transform="translate(1403.835 986)">
+        <path id="Path_25" data-name="Path 25" d="M1176.581,1018h170.414l21.443-25.181h356.894" transform="translate(-1176.581 -979)" fill="none" stroke="snow" stroke-width="1"/>
+        <path id="Path_26" data-name="Path 26" d="M1337.022,1018l20.749,16.894h135.287" transform="translate(-1166.681 -979)" fill="none" stroke="snow" stroke-width="1"/>
+        <path d="M 11 5 A 5.5 5 0 0 1 5.5 10 A 5.5 5 0 0 1 0 5 A 5.5 5 0 0 1 5.5 0 A 5.5 5 0 0 1 11 5 Z" id="Ellipse_11" data-name="Ellipse 11" transform="translate(331.224 50)" fill="#58D68D "/>
+        <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(323.224 42)" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 28 13 A 14 13 0 0 1 14 26 A 14 13 0 0 1 0 13 A 14 13 0 0 1 14 0 A 14 13 0 0 1 28 13 Z" stroke="none"/>
+          <path d="M 26.5 13 A 12.5 11.5 0 0 1 14 24.5 A 12.5 11.5 0 0 1 1.5 13 A 12.5 11.5 0 0 1 14 1.5 A 12.5 11.5 0 0 1 26.5 13 Z" fill="none"/>
+        </g>
+        <path d="M 11 5 A 5.5 5 0 0 1 5.5 10 A 5.5 5 0 0 1 0 5 A 5.5 5 0 0 1 5.5 0 A 5.5 5 0 0 1 11 5 Z" id="Ellipse_16" data-name="Ellipse 16" transform="translate(548.224 8)" fill="#58D68D "/>
+        <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(540.224)" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 27 13 A 13.5 13 0 0 1 13.5 26 A 13.5 13 0 0 1 0 13 A 13.5 13 0 0 1 13.5 0 A 13.5 13 0 0 1 27 13 Z" stroke="none"/>
+          <path d="M 25.5 13 A 12 11.5 0 0 1 13.5 24.5 A 12 11.5 0 0 1 1.5 13 A 12 11.5 0 0 1 13.5 1.5 A 12 11.5 0 0 1 25.5 13 Z" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(109.059 977)">
+        <path id="Path_25-2" data-name="Path 25" d="M1725.354,1018H1554.934l-21.444-25.181H1176.581" transform="translate(-1157.848 -979)" fill="none" stroke="snow" stroke-width="1"/>
+        <path id="Path_26-2" data-name="Path 26" d="M1493.059,1018l-20.749,16.894H1337.022" transform="translate(-1095.9 -979)" fill="none" stroke="snow" stroke-width="1"/>
+        <path d="M 10.618 5 A 5.309 5 0 0 1 5.309 10 A 5.309 5 0 0 1 0 5 A 5.309 5 0 0 1 5.309 0 A 5.309 5 0 0 1 10.618 5 Z" id="Ellipse_11-2" data-name="Ellipse 11" transform="translate(225.728 50)" fill="#58D68D "/>
+        <g id="Ellipse_12-2" data-name="Ellipse 12" transform="translate(217.212 42)" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 27.604 13 A 13.802 13 0 0 1 13.802 26 A 13.802 13 0 0 1 0 13 A 13.802 13 0 0 1 13.802 0 A 13.802 13 0 0 1 27.604 13 Z" stroke="none"/>
+          <path d="M 26.104 13 A 12.302 11.5 0 0 1 13.802 24.5 A 12.302 11.5 0 0 1 1.5 13 A 12.302 11.5 0 0 1 13.802 1.5 A 12.302 11.5 0 0 1 26.104 13 Z" fill="none"/>
+        </g>
+        <path d="M 11 5 A 5.5 5 0 0 1 5.5 10 A 5.5 5 0 0 1 0 5 A 5.5 5 0 0 1 5.5 0 A 5.5 5 0 0 1 11 5 Z" id="Ellipse_16-2" data-name="Ellipse 16" transform="translate(8 8)" fill="#58D68D "/>
+        <g id="Ellipse_17-2" data-name="Ellipse 17" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 27 13 A 13.5 13 0 0 1 13.5 26 A 13.5 13 0 0 1 0 13 A 13.5 13 0 0 1 13.5 0 A 13.5 13 0 0 1 27 13 Z" stroke="none"/>
+          <path d="M 25.5 13 A 12 11.5 0 0 1 13.5 24.5 A 12 11.5 0 0 1 1.5 13 A 12 11.5 0 0 1 13.5 1.5 A 12 11.5 0 0 1 25.5 13 Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_40" data-name="Group 40" transform="matrix(1, 0, 0, 1, -120.40006837205887, 0)">
+      <path id="Path_35" data-name="Path 35" d="M723.553,991l43.8-62.631h63.514l28.472-35.221h87.606" transform="translate(0 3)" fill="none" stroke="#58D68D " stroke-width="1"/>
+      <path id="Path_36" data-name="Path 36" d="M767.348,932.007,797.555,956.3h80.4" transform="translate(64.2 -1)" fill="none" stroke="#58D68D " stroke-width="1"/>
+      <g id="Group_38" data-name="Group 38" transform="translate(934.2 883)">
+        <g transform="matrix(1, 0, 0, 1, -844, -22)" filter="url(#Ellipse_18)">
+          <path d="M 10 5 A 5 5 0 0 1 5 10 A 5 5 0 0 1 0 5 A 5 5 0 0 1 5 0 A 5 5 0 0 1 10 5 Z" id="Ellipse_18-5" data-name="Ellipse 18" transform="translate(852 30)" fill="#fff"/>
+        </g>
+        <g id="Ellipse_19" data-name="Ellipse 19" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 26 13 A 13 13 0 0 1 13 26 A 13 13 0 0 1 0 13 A 13 13 0 0 1 13 0 A 13 13 0 0 1 26 13 Z" stroke="none"/>
+          <path d="M 24.5 13 A 11.5 11.5 0 0 1 13 24.5 A 11.5 11.5 0 0 1 1.5 13 A 11.5 11.5 0 0 1 13 1.5 A 11.5 11.5 0 0 1 24.5 13 Z" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_39" data-name="Group 39" transform="translate(933.2 942)">
+        <g transform="matrix(1, 0, 0, 1, -843, -81)" filter="url(#Ellipse_18-2)">
+          <path d="M 10 5 A 5 5 0 0 1 5 10 A 5 5 0 0 1 0 5 A 5 5 0 0 1 5 0 A 5 5 0 0 1 10 5 Z" id="Ellipse_18-6" data-name="Ellipse 18" transform="translate(851 89)" fill="#fff"/>
+        </g>
+        <g id="Ellipse_19-2" data-name="Ellipse 19" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 26 13 A 13 13 0 0 1 13 26 A 13 13 0 0 1 0 13 A 13 13 0 0 1 13 0 A 13 13 0 0 1 26 13 Z" stroke="none"/>
+          <path d="M 24.5 13 A 11.5 11.5 0 0 1 13 24.5 A 11.5 11.5 0 0 1 1.5 13 A 11.5 11.5 0 0 1 13 1.5 A 11.5 11.5 0 0 1 24.5 13 Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_41" data-name="Group 41" transform="translate(341.447)">
+      <path id="Path_35-2" data-name="Path 35" d="M946.952,991l-43.8-62.631H839.633l-28.472-35.221H723.553" transform="matrix(1, 0, 0, 1, 15.911000340747819, 3)" fill="none" stroke="#58D68D " stroke-width="1"/>
+      <path id="Path_36-2" data-name="Path 36" d="M877.955,932.007,847.748,956.3h-80.4" transform="translate(-25.75 -1)" fill="none" stroke="#58D68D " stroke-width="1"/>
+      <g id="Group_38-2" data-name="Group 38" transform="translate(723.553 883)">
+        <g transform="matrix(1, 0, 0, 1, -1042, -22)" filter="url(#Ellipse_18-3)">
+          <path d="M 10 5 A 5 5 0 0 1 5 10 A 5 5 0 0 1 0 5 A 5 5 0 0 1 5 0 A 5 5 0 0 1 10 5 Z" id="Ellipse_18-7" data-name="Ellipse 18" transform="translate(1050 30)" fill="#fff"/>
+        </g>
+        <g id="Ellipse_19-3" data-name="Ellipse 19" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 26 13 A 13 13 0 0 1 13 26 A 13 13 0 0 1 0 13 A 13 13 0 0 1 13 0 A 13 13 0 0 1 26 13 Z" stroke="none"/>
+          <path d="M 24.5 13 A 11.5 11.5 0 0 1 13 24.5 A 11.5 11.5 0 0 1 1.5 13 A 11.5 11.5 0 0 1 13 1.5 A 11.5 11.5 0 0 1 24.5 13 Z" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_39-2" data-name="Group 39" transform="translate(724.553 942)">
+        <g transform="matrix(1, 0, 0, 1, -1043, -81)" filter="url(#Ellipse_18-4)">
+          <path d="M 10 5 A 5 5 0 0 1 5 10 A 5 5 0 0 1 0 5 A 5 5 0 0 1 5 0 A 5 5 0 0 1 10 5 Z" id="Ellipse_18-8" data-name="Ellipse 18" transform="translate(1051 89)" fill="#fff"/>
+        </g>
+        <g id="Ellipse_19-4" data-name="Ellipse 19" fill="none" stroke="#58D68D " stroke-width="3">
+          <path d="M 26 13 A 13 13 0 0 1 13 26 A 13 13 0 0 1 0 13 A 13 13 0 0 1 13 0 A 13 13 0 0 1 26 13 Z" stroke="none"/>
+          <path d="M 24.5 13 A 11.5 11.5 0 0 1 13 24.5 A 11.5 11.5 0 0 1 1.5 13 A 11.5 11.5 0 0 1 13 1.5 A 11.5 11.5 0 0 1 24.5 13 Z" fill="none"/>
+        </g>
+      </g>
+    <path d="M 1460.240234375 496.01513671875" style="fill-opacity: 1; stroke: #58D68D; stroke-opacity: 1; stroke-width: 1; paint-order: stroke;"/><path d="M 1079.30810546875 804.6755981445312" style="fill-opacity: 1; stroke: rgb(112, 112, 112); stroke-opacity: 1; stroke-width: 1; paint-order: stroke;" transform="matrix(1, 0, 0, 1, 2.6600000555991983, 0)"/></g>
+  </g></g></svg>

@@ -1,0 +1,371 @@
+*{
+  margin: 0;
+  padding: 0;
+font-family: 'Aldrich';
+scroll-behavior: smooth;
+ cursor: url("cursor.gif"), pointer;
+}
+
+
+@font-face {
+font-family: "SpaceQuest";
+src: url("SpaceQuest.ttf");
+}
+@font-face {
+  font-family: "HyperHelix";
+  src: url("HyperHelix.ttf");
+}
+@font-face {
+  font-family: "Oxin";
+  src: url("Oxin.ttf");
+}
+@font-face {
+  font-family: "SpaceAge";
+  src: url("SpaceAge.ttf");
+}
+@font-face {
+  font-family: "SpaceNeon";
+  src: url("SpaceNeon.ttf");
+}
+@font-face {
+  font-family: "SpaceTech";
+  src: url("SpaceTech.ttf");
+}
+html{
+  scroll-behavior: smooth;
+  font-family: 'Roboto';
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('bigrot.svg') 50% 50% no-repeat #000;
+        background-size: 15%;
+}
+
+body{
+  background:#02030d;
+width: 100%;
+
+}
+
+
+#particles-js{
+display: none;
+}
+#video-laptop {
+    position: relative;
+    height: 100%;
+    padding-bottom: 50.5%;
+  margin-left: 18%;
+  margin-top: 2%;
+}
+#video-laptop iframe {
+    box-sizing: border-box;
+    background: url("framevideo.svg") center center no-repeat;
+    background-size: contain;
+    padding:7.8% 9.2% 9% 9.30%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+transition: all 1s;
+  }
+
+
+  .menu{
+  position: fixed;
+  top: 0.5%;
+  right: 0.8%;
+  height: 80px;
+  z-index: 5;
+  cursor: pointer;
+  border-radius: 50%;
+  transform-origin: center;
+  transition: all 0.3s ;
+  }
+
+
+  .menucenter1, .menucenter2 , .menucenter3 , .menucenter4{
+    position: fixed;
+    top: 0.5%;
+    right: 0.8%;
+    height: 80px;
+    z-index: -2;
+    opacity: 0;
+  }
+  @keyframes opac {
+    from{
+      opacity: 1;
+    }
+    to{
+      opacity: 0;
+    }
+  }
+  .menucenter1{
+    animation: opac 0.2s ease;
+      transition: all 0.2s ease;
+  }
+   .menucenter2 {
+     animation: opac 0.3s ease;
+    transition: all 0.3s ease;
+   }
+   .menucenter3 {
+     animation: opac 0.4s ease;
+    transition: all 0.4s ease;
+   }
+  .menucenter4{
+    animation: opac 0.5s ease;
+    transition: all 0.5s ease;
+  }
+  .home{
+    position: fixed;
+    height: 70px;
+    width: 70px;
+    top: 0.5rem;
+    right: 7rem;
+    cursor: pointer;
+    z-index: 5;
+      transition: all 0.2s ease;
+      opacity: 1;
+
+  }
+  .home:hover{
+    transform: scale(1.5);
+    text-shadow: 0 0 5px #fff;
+  }
+  .courses{
+    position: fixed;
+    height: 70px;
+    width: 70px;
+    top: 0.5rem;
+    right: 12rem;
+    z-index: 5;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    opacity: 1;
+
+  }
+  .courses:hover{
+    transform: scale(1.5);
+    text-shadow: 0 0 5px #fff;
+  }
+
+  .games{
+    position: fixed;
+    height: 70px;
+    width: 70px;
+    top: 0.5rem;
+    right: 17rem;
+    z-index: 5;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    opacity: 1;
+  }
+  .games:hover{
+    transform: scale(1.5);
+    text-shadow: 0 0 5px #fff;
+  }
+
+  .about{
+    position: fixed;
+    height: 70px;
+    width: 70px;
+    top:0.5rem;
+    right: 22rem ;
+    z-index: 5;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    opacity: 1;
+  }
+  .about:hover{
+    transform: scale(1.5);
+    text-shadow: 0 0 5px #fff;
+  }
+
+
+
+		/*  VIDEOS PLAYLIST
+ 		############################### */
+		.vid-list-container {
+    position: absolute;
+			width: 14%;
+      height:100%;
+			overflow: hidden;
+      top: 70px;
+      scroll-behavior: smooth;
+      transition: all 2s;
+		}
+
+    .vid-list-container:hover, .vid-list-container:focus {
+       overflow-y: auto;
+       transition: all 2s;
+     }
+
+		ol#vid-list {
+      margin:0;
+      padding:0;
+
+		}
+
+    ol#vid-list li {
+      position: relative;
+		  list-style: none;
+      height: 10rem;
+      width: 15rem;
+transition: all 2s;
+
+    }
+
+    ol#vid-list li a{
+      position: absolute;
+
+        height: 9rem;
+      width: 13rem;
+      z-index: 5;
+      margin-left: 2rem;
+transition: all 2s;
+
+    }
+        ol#vid-list li  img{
+          position: absolute;
+           height: 9rem;
+           padding-left: 8px;
+        }
+    ol#vid-list li a:hover {
+          border:2px solid skyblue;
+      transition: 0.2s ease;
+
+    }
+
+        #vid1{
+
+color: skyblue;
+  position:absolute;
+  height: 10%;
+  width: 68%;
+  right: 7%;
+  justify-content: center;
+z-index: -1;
+  font-size: 2.2rem;
+  transition: all 1s;
+        }
+
+        #ti{
+          padding: 2rem;
+
+        }
+
+    @media only screen and (max-width: 1000px) {
+      .loader {
+          position: fixed;
+          left: 0px;
+          top: 0px;
+          width: 100%;
+          height: 100%;
+          z-index: 9999;
+          background: url('bigrot.svg') 50% 50% no-repeat #000;
+              background-size: 30%
+      }
+      #particles-js{
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 300%;
+        border-radius: 50%;
+        height: 300%;
+        z-index:-3;
+      }
+
+
+      #video-laptop iframe {
+          box-sizing: border-box;
+          background: url("framevideo.svg") center center no-repeat;
+          background-size: contain;
+      padding:13.2% 10.9% 14.4% 11%;
+          position: absolute;
+          top: 30%;
+          left: -21%;
+          width: 120%;
+          height:132%;
+        transition: all 2s;}
+
+      		/*  VIDEOS PLAYLIST
+       		############################### */
+      		.vid-list-container {
+            position: absolute;
+      			width: 100%;
+            height:50%;
+      			overflow: auto;
+            margin-top: 80%;
+            top: 70px;
+            scroll-behavior: smooth;
+transition: all 2s;
+            z-index: 999;
+
+      		}
+
+          .vid-list-container:hover, .vid-list-container:focus {
+             overflow-x :auto;
+             transition: all 2s;
+           }
+
+      		ol#vid-list {
+            position: absolute;
+width: 700%;
+            margin-left:4%;
+            margin-top: 2%;
+            display: inline-block;
+            transition: all 2s;
+
+      		}
+
+          ol#vid-list li {
+            position: relative;
+      		  list-style: none;
+            display: inline-block;
+            height: 10rem;
+            width: 15rem;
+            float: none;
+transition: all 2s;
+          }
+
+          ol#vid-list li a{
+            position: absolute;
+                }
+
+              ol#vid-list li  img{
+                position: absolute;
+
+              }
+          ol#vid-list li a:hover {
+                border:2px solid skyblue;
+            transition: 0.2s ease;
+
+          }
+          #vid1{
+          color: skyblue;
+            position:absolute;
+            height: 10%;
+            width: 100%;
+            padding-top: 1rem;
+            justify-content: center;
+            right: 0;
+          z-index: 5;
+            font-size: 1.2rem;
+            transition: all 1s;
+          }
+#ti{
+  padding: 2rem;
+}
+
+    }}
