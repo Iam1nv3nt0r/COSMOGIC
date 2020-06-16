@@ -955,6 +955,10 @@ transition: all 0.3s ;
   display:none;
   }
 
+  body{
+  background:#000;
+}
+  
   .beyond{
     position: absolute;
     width: 30%;
